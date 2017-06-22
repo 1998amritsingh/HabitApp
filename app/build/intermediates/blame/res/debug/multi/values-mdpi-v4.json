@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\1998a\\Documents\\GitHub\\HabitTracker\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-mdpi-v4\\values-mdpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 63,
+                    "endOffset": 114
+                },
+                "from": {
+                    "file": "C:\\Users\\1998a\\.android\\build-cache\\6bf319a04d12c4068e1dd75626ec5a6810c1bf64\\output\\res\\values-mdpi-v4\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 178,
+                        "endColumn": 63,
+                        "endOffset": 237
+                    }
+                }
+            }
+        ]
+    }
+]

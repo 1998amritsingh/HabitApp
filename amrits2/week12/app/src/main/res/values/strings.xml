@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HabitTracker</string>
+    <string name="action_settings">Settings</string>
+    <string name="firebase_status_fmt">Firebase User: %s</string>
+    <string name="facebook_status_fmt">Facebook User: %s</string>
+    <string name="signed_out">Signed Out</string>
+    <array name="shared">
+        <item>Make Public</item>
+        <item>Make Private</item>
+    </array>
+</resources>

@@ -1,0 +1,7 @@
+#Fri May 05 21:08:43 CDT 2017
+base.0=C\:\\Users\\1998a\\Documents\\GitHub\\HabitTracker\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_a4efe1ff96aa63b23006eadc2e81e27a087ceb75
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\1998a\\Documents\\GitHub\\HabitTracker\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_e491d851f8ad5d5a08f8e076517d97b679024b95\\classes.dex
+base.1=C\:\\Users\\1998a\\Documents\\GitHub\\HabitTracker\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_e491d851f8ad5d5a08f8e076517d97b679024b95
+file.0=C\:\\Users\\1998a\\Documents\\GitHub\\HabitTracker\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_a4efe1ff96aa63b23006eadc2e81e27a087ceb75\\classes.dex
